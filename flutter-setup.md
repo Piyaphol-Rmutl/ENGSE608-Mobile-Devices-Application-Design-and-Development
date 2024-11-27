@@ -1,6 +1,6 @@
 # Flutter Setup and Testing on macOS
 
-![Flutter Logo](https://flutter.dev/images/flutter-logo-sharing.png)
+![Logo](https://www.incentergy.de/wp-content/uploads/2020/10/flutter-logo.png)
 
 ## 📋 ข้อกำหนดของระบบ
 ก่อนเริ่มต้น ให้ตรวจสอบว่า macOS ของคุณมีคุณสมบัติตรงตามข้อกำหนด:
