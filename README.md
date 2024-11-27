@@ -16,23 +16,24 @@
 ## แผนการสอน (17 สัปดาห์)
 | สัปดาห์ | หัวข้อ                            |
 | ------- | ------------------------------- |
-| 1       |                                 |
-| 2       |                                 |
-| 3       |                                 |
-| 4       |                                 |
-| 5       |                                 |
-| 6       |                                 |
-| 7       |                                 |
-| 8       | สอบกลางภาค                      |
-| 9       |                                 |
-| 10       |                                 |
-| 11       |                                 |
-| 12       |                                 |
-| 13       |                                 |
-| 14       |                                 |
-| 15       |                                 |
-| 16       |                                 |
-| 17      | สอบปลายภาค                      |
+| 1       | <h3>บทนำสู่การพัฒนา Mobile App</h3> <b>ทฤษฎี :</b> <br> - ความรู้พื้นฐานเกี่ยวกับระบบปฏิบัติการและสภาพแวดล้อมการพัฒนา (Introduction to Mobile OS and Development Environments) <br> - แนะนำภาษา Dart และ Flutter <br> <b>ปฏิบัติ :</b><br> - ติดตั้ง Flutter SDK และการตั้งค่าเครื่องมือพัฒนาบน macOS/Windows <br> - ใช้งานเครื่องมือ DartPad เพื่อเรียนรู้โครงสร้างภาษา Dart <br> - ทดสอบโปรแกรมแรกด้วยคำสั่ง flutter create และ flutter run|
+| 2       | <h3>พื้นฐานภาษา Dart</h3> <b>ทฤษฎี :</b> <br> - โครงสร้างภาษา Dart (Dart Syntax and Structure) <br> - ตัวแปรและประเภทข้อมูล (Variables and Data Types) <br> <b>ปฏิบัติ :</b> <br> - การเขียนโปรแกรมพื้นฐานด้วย Dart เช่น การสร้างตัวแปรและการแสดงผล <br> - การเขียนโปรแกรมควบคุมโครงสร้าง (Control Flow Statements) <br> - การใช้ฟังก์ชันเบื้องต้น |
+| 3       | <h3>การทำงานร่วมกันระหว่าง Flutter และ Dart</h3> <b>ทฤษฎี :</b> <br> - แนวคิด Widgets และโครงสร้าง UI ใน Flutter <br> - StatelessWidget และ StatefulWidget <br> <b>ปฏิบัติ :</b> <br> - สร้างโปรเจกต์ Flutter และเพิ่ม Widgets พื้นฐาน เช่น Text, Column, Row <br> - การจัดการสถานะ (State Management) แบบง่าย |
+| 4       | <h3>การสร้างส่วนติดต่อผู้ใช้ (UI Design)</h3> <b>ทฤษฎี :</b> <br> -หลักการออกแบบ UI/UX สำหรับ Mobile Apps <br> - การจัดเรียง Layout ใน Flutter (Layouts and Positioning) <br> <b>ปฏิบัติ :</b> <br> - ใช้ Widgets เช่น Container, Stack, และ ListView <br> - การออกแบบ UI หน้าหลัก (Homepage UI Design) |
+| 5       | <h3>การรับข้อมูลจากผู้ใช้งาน</h3> <b>ทฤษฎี :</b> <br> - Widgets สำหรับ Input เช่น TextField และ Button <br> - การจัดการเหตุการณ์ (Event Handling) <br> <b>ปฏิบัติ :</b> <br> - สร้างฟอร์มรับข้อมูลและการยืนยันข้อมูล <br> - การสร้างฟังก์ชันโต้ตอบ (Interactive Functions) |
+| 6       | <h3>การจัดการสถานะ (State Management)</h3> <b>ทฤษฎี :</b> <br> - แนวคิด State Management ใน Flutter <br> - Scoped Model และ Provider <br> <b>ปฏิบัติ :</b> <br> - ใช้ Provider ในการจัดการ State <br> - สร้างหน้าจอที่มีการอัปเดต UI ตามข้อมูล |
+| 7       | <h3>การใช้งานแพ็กเกจใน Flutter</h3> <b>ทฤษฎี :</b> <br> - การติดตั้งและใช้งาน Flutter Packages <br> - แนะนำแพ็กเกจยอดนิยม เช่น http, provider, และ shared_preferences <br> <b>ปฏิบัติ :</b> <br> - ติดตั้งแพ็กเกจและใช้งานในโปรเจกต์ <br> - 
+ใช้ http เพื่อเรียกข้อมูลจาก API |
+| 8       | <h3>สอบกลางภาค</h3> |
+| 9       | <h3>การจัดเก็บข้อมูล (Data Storage)</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 10       | <h3>การพัฒนา API และเชื่อมต่อกับแอปพลิเคชัน</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 11       | <h3>การใช้งานฐานข้อมูลภายนอก (Cloud Database)</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 12       | <h3>การทดสอบแอปพลิเคชัน (Testing)</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 13       | <h3>การปรับปรุงและเพิ่มประสิทธิภาพ</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 14       | <h3>การเตรียมพร้อมสำหรับการเผยแพร่แอป</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 15       | <h3>ศึกษาและปฏิบัติเทอมโปรเจกต์</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 16       | <h3>สรุปและนำเสนอเทอมโปรเจกต์</h3> <b>ทฤษฎี :</b> <br> - <br> <b>ปฏิบัติ :</b> <br> - <br> |
+| 17      | <h3>สอบปลายภาค</h3> |
 
 ## อื่นๆ
 - [ขั้นตอนการติดตั้ง Flutter บน macOS](https://github.com/Piyaphol-Rmutl/ENGSE608-Mobile-Devices-Application-Design-and-Development/blob/main/flutter-setup.md)
